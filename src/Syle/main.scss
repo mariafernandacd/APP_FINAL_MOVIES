@@ -1,0 +1,29 @@
+@import "./Utils/reset";
+
+@import "./componentesStyle/header";
+
+@import "./componentesStyle/containerPreview";
+
+@import "./componentesStyle/Card";
+
+@import "./componentesStyle/containerMedia";
+
+@import "./componentesStyle/Nav";
+
+@import "./componentesStyle/Similar";
+
+@import "./componentesStyle/Info";
+
+@import "./componentesStyle/InfoPerson";
+
+@import "./Utils/variables";
+
+@import "./componentesStyle/paginado";
+
+@import "./componentesStyle/EpisodeCard";
+
+body {
+    background-color: #40424a;
+    font-family:Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
